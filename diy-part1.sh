@@ -15,6 +15,7 @@
 
 # Add a feed source
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
+git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #sed -i '1i src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
