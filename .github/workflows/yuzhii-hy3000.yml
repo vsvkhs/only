@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: yuzhii-philips_hy3000
+name: yuzhii-philips_hy3000-docker
 
 on:
   repository_dispatch:
